@@ -18,29 +18,29 @@ Bu proje, araç giriş-çıkışlarını, müşteri ilişkilerini ve finansal s�
 Proje, otopark işletmesinin tüm ihtiyaçlarını karşılayacak modüllerden oluşmaktadır:
 
 ### 1. 🅿️ Araç ve Park Yönetimi
-* [cite_start]**Giriş/Çıkış:** Araçların plaka, model, renk ve müşteri bilgileriyle kaydı [cite: 17-18].
-* [cite_start]**Otomatik Ücretlendirme:** İçeride kalınan süreye (saat) göre otomatik ücret hesaplama [cite: 17-18].
-* [cite_start]**Durum Takibi:** Park alanındaki mevcut araçların ve geçmiş kayıtların listelenmesi[cite: 20].
+* **Giriş/Çıkış:** Araçların plaka, model, renk ve müşteri bilgileriyle kaydı.
+* **Otomatik Ücretlendirme:** İçeride kalınan süreye (saat) göre otomatik ücret hesaplama.
+* **Durum Takibi:** Park alanındaki mevcut araçların ve geçmiş kayıtların listelenmesi.
 
 ### 2. 🏷️ Fiyatlandırma ve Kampanya Yönetimi
-* [cite_start]**Kampanya Oluşturma:** Belirli tarih aralıklarında geçerli olacak, istenilen araç türüne özel indirim kampanyaları tanımlama[cite: 50].
-* [cite_start]**Kampanya Kontrolü:** Oluşturulan kampanyaları manuel olarak aktif veya pasif duruma getirme[cite: 51].
-* [cite_start]**Tarifeler:** Araç türlerine göre (Otomobil, Kamyon vb.) farklı saatlik ücret tarifeleri belirleme ve güncelleme[cite: 48].
+* **Kampanya Oluşturma:** Belirli tarih aralıklarında geçerli olacak, istenilen araç türüne özel indirim kampanyaları tanımlama.
+* **Kampanya Kontrolü:** Oluşturulan kampanyaları manuel olarak aktif veya pasif duruma getirme.
+* **Tarifeler:** Araç türlerine göre (Otomobil, Kamyon vb.) farklı saatlik ücret tarifeleri belirleme ve güncelleme.
 
 ### 3. 👥 Müşteri İlişkileri Modülü
-* [cite_start]**Üyelik Sistemi:** Müşteri kaydı, güncelleme ve üyelik dondurma işlemleri [cite: 22-23].
-* [cite_start]**Ceza Yönetimi:** Kurallara uymayan müşterilere ceza tanımlama (Sebep, Tutar, Bitiş Tarihi) ve ödeme takibi [cite: 27-29].
-* [cite_start]**Destek Sistemi:** Müşteri talep ve şikayetlerine yanıt verme, talep durumunu (Açık/Kapalı) yönetme [cite: 31-34].
+* **Üyelik Sistemi:** Müşteri kaydı, güncelleme ve üyelik dondurma işlemleri.
+* **Ceza Yönetimi:** Kurallara uymayan müşterilere ceza tanımlama (Sebep, Tutar, Bitiş Tarihi) ve ödeme takibi.
+* **Destek Sistemi:** Müşteri talep ve şikayetlerine yanıt verme, talep durumunu (Açık/Kapalı) yönetme.
 
 ### 4. 👔 İnsan Kaynakları (Personel)
-* [cite_start]**Personel İşlemleri:** İşe alım, kayıt oluşturma ve işten çıkarma süreçleri[cite: 37, 40].
-* [cite_start]**Kariyer Yönetimi:** Pozisyon değiştirme, maaş güncelleme ve performans takibi[cite: 39].
-* [cite_start]**Personel Listesi:** Aktif ve eski çalışanların filtrelenerek görüntülenmesi[cite: 41].
+* **Personel İşlemleri:** İşe alım, kayıt oluşturma ve işten çıkarma süreçleri.
+* **Kariyer Yönetimi:** Pozisyon değiştirme, maaş güncelleme ve performans takibi.
+* **Personel Listesi:** Aktif ve eski çalışanların filtrelenerek görüntülenmesi.
 
 ### 5. 💰 Finansal Yönetim ve Raporlama
-* [cite_start]**Gelir Analizi:** Belirli tarihler arasındaki otopark ve ceza gelirlerinin ayrı ayrı hesaplanması [cite: 54-55].
-* [cite_start]**Maaş Zam Sistemi:** Personele toplu (% oran ile) veya bireysel zam yapabilme özelliği [cite: 56-57].
-* [cite_start]**Gider Takibi:** Toplam personel maliyetlerinin ve ödenmemiş cezaların raporlanması [cite: 59-60].
+* **Gelir Analizi:** Belirli tarihler arasındaki otopark ve ceza gelirlerinin ayrı ayrı hesaplanması.
+* **Maaş Zam Sistemi:** Personele toplu (% oran ile) veya bireysel zam yapabilme özelliği.
+* **Gider Takibi:** Toplam personel maliyetlerinin ve ödenmemiş cezaların raporlanması.
 
 ---
 
