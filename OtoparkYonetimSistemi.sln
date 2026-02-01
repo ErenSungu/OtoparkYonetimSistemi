@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoparkYonetimSistemi", "OtoparkYonetimSistemi\OtoparkYonetimSistemi.csproj", "{041D1AAA-3D4F-490B-9E3A-5F98293F151E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041D1AAA-3D4F-490B-9E3A-5F98293F151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041D1AAA-3D4F-490B-9E3A-5F98293F151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041D1AAA-3D4F-490B-9E3A-5F98293F151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041D1AAA-3D4F-490B-9E3A-5F98293F151E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

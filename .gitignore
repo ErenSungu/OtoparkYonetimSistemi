@@ -1,0 +1,9 @@
+# Gereksiz Visual Studio dosyalari
+bin/
+obj/
+packages/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
